@@ -1,0 +1,6 @@
+framework module ALWStepper {
+  umbrella header "ALWStepper-umbrella.h"
+
+  export *
+  module * { export * }
+}
